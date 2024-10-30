@@ -62,7 +62,7 @@ const About = () => {
           <h2 className="text-4xl font-bold text-black mb-4">About Me</h2>
           <p className="text-base lg:text-lg">
           I am Ananya, an enthusiastic learner. Driven by curiosity,
-          I'm eager to learn from diverse experiences and expand my skills. My goal is to apply my knowledge to streamline tasks in my daily life and assist others in doing the same.
+          I am eager to learn from diverse experiences and expand my skills. My goal is to apply my knowledge to streamline tasks in my daily life and assist others in doing the same.
           I am particularly interested in areas such as software development, data science, and machine learning, as well as emerging technologies that could lead to impactful solutions.
           </p>
           <div className="flex flex-row justify-start mt-8">
